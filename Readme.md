@@ -1,4 +1,4 @@
-# How to Invoke a Customized Data Source Wizard in the DashboardViewer
+# How to Customize the Data Source Wizard and Invoke It in the DashboardViewer
 
 This example demonstrates how to customize Data Source Wizard pages and invoke a customized Wizard in the DashboardViewer.
 
