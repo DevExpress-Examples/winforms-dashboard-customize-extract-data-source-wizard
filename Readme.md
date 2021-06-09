@@ -13,5 +13,5 @@ To customize the **Edit extract** page, the application uses the approach descri
 
 ## Documentation
 
--[Data Source Wizard](http://docs.devexpress.com/Dashboard/17652)
--[How to Customize Views and Presenters Corresponding to Wizard Pages](http://docs.devexpress.com/Dashboard/18293)
+- [Data Source Wizard](http://docs.devexpress.com/Dashboard/17652)
+- [How to Customize Views and Presenters Corresponding to Wizard Pages](http://docs.devexpress.com/Dashboard/18293)
