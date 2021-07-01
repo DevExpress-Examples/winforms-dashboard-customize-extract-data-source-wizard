@@ -2,7 +2,7 @@
 
 * [Form1.cs](./CS/Custom_Extract_Data_Source_Wizard/Form1.cs) (VB: [Form1.vb](./VB/Custom_Extract_Data_Source_Wizard/Form1.vb))
 
-# How to Customize the Data Source Wizard and Invoke It in the DashboardViewer
+# Dashboard for WinForms - How to customize the Data Source Wizard and invoke it in the DashboardViewer
 
 This example demonstrates how to customize Data Source Wizard pages and invoke a customized Wizard in the DashboardViewer.
 
