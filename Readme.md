@@ -15,3 +15,4 @@ To customize the **Edit extract** page, the application uses the approach descri
 
 - [Data Source Wizard](http://docs.devexpress.com/Dashboard/17652)
 - [How to Customize Views and Presenters Corresponding to Wizard Pages](http://docs.devexpress.com/Dashboard/18293)
+- [Extract Data Source](https://docs.devexpress.com/Dashboard/115900/winforms-dashboard/winforms-designer/create-dashboards-in-the-winforms-designer/providing-data/extract-data-source)
